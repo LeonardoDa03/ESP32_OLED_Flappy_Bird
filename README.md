@@ -1,6 +1,6 @@
 A basic ESP32-C3, OLED display, Flappy Bird Game with adjustable settings.
 
-- Download and install Arduino IDE version-2.2.3
+- Download and install Arduino IDE version-2.x.x (Arduino Download page: https://www.arduino.cc/en/software/) - Select based on your running OS.
 - DOWNLOAD the code
 - Rename the folder by removing "-main"
 - Double Click the "ESP32_OLED_Flappy_Bird.ino" file (.ino is the extension of Arduino main sketch file)
